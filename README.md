@@ -13,3 +13,8 @@ Algunos comandos
 
 Cabe mencionar que una vez ejecutado alguno de estos comandos habrá que reiniciar el servidor apache para que se vean 
 reflejados los cambios.
+
+Agregar dirección para que se vea afectada de manera local
+=========================
+Para que estos cambios se vean reflejados de manera local hay que agregar una configuración en el archivo /etc/hosts
+- 127.0.1.1     www.midominio.com
